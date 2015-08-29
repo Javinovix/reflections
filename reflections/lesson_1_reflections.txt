@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It is very helpful because it allows me to automatize the comparison of files, so I can
+find the diferences between files in a faster and more efficient way.
+
+How could having easy access to the entire history of a file make you a more efficient programmer
+in the long term?
+It will do easier for me to track down differences between my code in a much faster and efficient way
+so I can focus on writing good code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+The pros are that you won't get a lot of versions based on insignificant changes, and also that you won't
+to many changes for commit, this makes the version easier to undestand.
+The con is that git is based on manual save, so it is entirely up to the developer to choose when to save.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+Because Git is designed for software development, while google docs is design for documents.
+Often software development demands the use of more than one file (ie web development, css, html)
+that is why Git allows saving multiple files in one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+The "git log" command allows me to see the different versions of the code along
+with a description containing the changes. Git diff compares two different versions
+of the same file to spot difference between then.
+
+How might using version control make you more confident to make changes that could break something?
+It makes very confident in making changes because it's easier and faster to identify the changes made
+across different versions of the same file.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to use it for a webpage I'm currently working on.
+
+What happens when you initialize a repository? Why do you need to do it?
+The files within the repository are linked to the version control system (in this case Git). 
+This has to be done because is the way in wich Git works.
