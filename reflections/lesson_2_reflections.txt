@@ -5,4 +5,19 @@ This has to be done because is the way in wich Git works.
 How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 The staging area is a temporal place where files are stored until the user decides
-to add them to a repository. It allows the user 
+to add them to a repository. The staging area is valuable because it allows the user
+to add one commit per logical change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By checking out that only one logical change has been made between the filies
+in the working directory and the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+Branches would be very helpfull when adding experimental features to the files. 
+The use of Branches allows the user to split his code into different versions
+without the overhead of switching back and forth between officials and unofficials versions
+of the same code.
+
+How do the diagrams help you visualize the branch structure?
+It shows me the relationship between the current commit and its parent.
