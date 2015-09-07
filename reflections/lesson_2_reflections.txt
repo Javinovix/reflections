@@ -21,3 +21,15 @@ of the same code.
 
 How do the diagrams help you visualize the branch structure?
 It shows me the relationship between the current commit and its parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When merging to branches together the result is
+one branch that contains all the changes in both
+branches. Its form in the diagram is because
+it takes one branch and add all the commits
+of that branch and the other one, so at the end
+it contains all the commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is faster than manual merging
+but is not as precise.
