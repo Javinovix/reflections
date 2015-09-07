@@ -1,1 +1,2 @@
 When would you want to create a reomte respository rather than keeping all your work local?
+When working as part of a team and when working from differents pc.
