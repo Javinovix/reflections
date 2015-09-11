@@ -24,3 +24,10 @@ A fork is a way to clone someone else's repository
 through GitHub. This is usually done when someone
 wants to work in a specific project but does not
 have permission to modify the repository.
+
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+It allows the user to have an up-to-date copy of 
+the files within the remote branches, so in case
+the user is offline he/she can work with the last
+version available.
