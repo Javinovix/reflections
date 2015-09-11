@@ -39,3 +39,9 @@ Google drive.
 It would be easier to setup, but it would be harder
 to track and syn changes, especially when 2 or more
 people work in the same file at the same time.
+
+When would you want to make changes in a separate
+branch rather than directly in master?
+What benefits does each approach have?
+When working as part of a large team and When adding 
+experimental features.
