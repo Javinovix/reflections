@@ -31,3 +31,11 @@ It allows the user to have an up-to-date copy of
 the files within the remote branches, so in case
 the user is offline he/she can work with the last
 version available.
+
+How would you collaborate without using Git or GitHub?
+What would be easier and what would be harder?
+I would use a cloud drive like Dropbox, Onedrive or
+Google drive.
+It would be easier to setup, but it would be harder
+to track and syn changes, especially when 2 or more
+people work in the same file at the same time.
